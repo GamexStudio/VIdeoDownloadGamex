@@ -2,7 +2,7 @@
 //  ViewController.h
 //  FlipSample
 //
-//  Created by enAct eServices on 05/05/16.
+//  Created by TheTiger on 05/05/16.
 //  Copyright © 2016 TheTiger. All rights reserved.
 //
 
